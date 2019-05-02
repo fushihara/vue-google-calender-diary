@@ -1,0 +1,30 @@
+{
+  "name": "vue-google-calender-dialy",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "serve": "vue-cli-service serve",
+    "build": "vue-cli-service build --mode production"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dateformat": "^3.0.3",
+    "vue": "^2.6.10",
+    "vue-class-component": "^7.0.2",
+    "vue-cool-select": "^2.10.2",
+    "vue-property-decorator": "^8.1.0",
+    "vuejs-datepicker": "^1.5.4"
+  },
+  "devDependencies": {
+    "@types/dateformat": "^3.0.0",
+    "@vue/cli-plugin-typescript": "^3.7.0",
+    "@vue/cli-service": "^3.7.0",
+    "node-sass": "^4.12.0",
+    "sass-loader": "^7.1.0",
+    "typescript": "^3.4.5",
+    "vue-template-compiler": "^2.6.10"
+  }
+}
